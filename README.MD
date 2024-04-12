@@ -16,11 +16,19 @@ This project aims to streamline the intake process for customer relationship man
 
 ## Getting Started
 ### Setup Instructions
-1. **Clone the Google Sheet**: Make a copy of the [Google Sheet template](link_to_google_sheet_template) provided.
+1. **Clone the Google Sheet**: Make a copy of the [Google Sheet template](https://docs.google.com/spreadsheets/d/1_gCUcBLbO2BsPPunIUigJN8JzGDVv4WtyhBUIf-ewWI/edit?usp=sharing) provided.
 2. **Enable Google Apps Script**: In the Google Sheet, go to `Extensions` > `Apps Script` and enable scripts.
-3. **Set Up Triggers**: Configure triggers for automation. Go to `Edit` > `Current project's triggers` in Apps Script and add necessary triggers.
+3. **Set Up Triggers**:
+    - Go to `Edit` > `Current project's triggers` in Apps Script.
+    - Click on `Add Trigger`.
+    - Select the following options:
+        - Choose which function to run: `checkCalendar`
+        - Choose which deployment should run: `Head`
+        - Select event source: `From spreadsheet`
+        - Select event type: `On edit`
 4. **Authorize Access**: Authorize necessary permissions for the script to function properly.
 5. **Configure Looker Studio Integration**: [Instructions on integrating with Looker Studio].
+
 
 ### Google Calendar URLs
 - Live Demo Calendar: [Insert Calendar URL]
