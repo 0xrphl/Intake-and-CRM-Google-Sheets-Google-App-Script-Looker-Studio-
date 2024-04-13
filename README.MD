@@ -22,6 +22,7 @@ This project aims to streamline the intake process for customer relationship man
 
 ## Video Tutorials
 [Watch Video Tutorial how to select and create events](https://youtu.be/yZUaAZnF0N4)
+
 [Watch Video Tutorial how to clone crm tool](https://youtu.be/jfdt8V68hUs)
 
 ## Getting Started
