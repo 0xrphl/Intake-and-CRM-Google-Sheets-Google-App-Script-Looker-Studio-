@@ -1,5 +1,23 @@
 # CRM Intake Project README
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [Flow Chart](#flow-chart)
+- [Demo](#demo)
+  - [Google Sheet Demo](#google-sheet-demo)
+  - [Looker Studio Demo](#looker-studio-demo)
+  - [Calendars](#calendars)
+- [Video Tutorials](#video-tutorials)
+- [Getting Started](#getting-started)
+  - [Setup Instructions](#setup-instructions)
+- [Support](#support)
+- [Explanation of Functions](#explanation-of-functions)
+  - [checkCalendar() Function](#explanation-of-checkcalendar-function)
+  - [createCalendarEvents() Function](#explanation-of-createcalendarevents-function)
+  - [sendTextMessage() Function](#explanation-of-sendtextmessage-and-scheduletextusmessage-function)
+
 ## Overview
 This project aims to streamline the intake process for customer relationship management (CRM) using Google Sheets, Google Apps Script, and Looker Studio.
 
