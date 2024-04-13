@@ -21,9 +21,9 @@ This project aims to streamline the intake process for customer relationship man
   - Calendar 4: [Link](https://calendar.google.com/calendar/embed?src=9a9705841364b5ad8216b3ad6ef461ac7747f0e27841e26de539244dfe219863%40group.calendar.google.com&ctz=America%2FNew_York)
 
 ## Video Tutorials
-[Watch Video Tutorial how to select and create events](https://youtu.be/yZUaAZnF0N4)
+-[Watch Video Tutorial how to select and create events](https://youtu.be/yZUaAZnF0N4)
 
-[Watch Video Tutorial how to clone crm tool](https://youtu.be/jfdt8V68hUs)
+-[Watch Video Tutorial how to clone crm tool](https://youtu.be/jfdt8V68hUs)
 
 ## Getting Started
 
