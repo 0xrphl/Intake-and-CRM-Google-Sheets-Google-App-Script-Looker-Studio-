@@ -45,7 +45,7 @@ This project aims to streamline the intake process for customer relationship man
 5. **Configure Looker Studio Integration**: [Instructions on integrating with Looker Studio].
 
 ## Support
-For any questions or issues, please contact [Your Contact Information].
+For any questions or issues, please contact [here](https://github.com/0xrphl/Intake-and-CRM-Google-Sheets-Google-App-Script-Looker-Studio-/issues/new).
 
 ## Explanation of checkCalendar() Function
 The `checkCalendar()` function is responsible for checking Google Calendar for events created based on the data entered into the Google Sheet. Here's how it works:
