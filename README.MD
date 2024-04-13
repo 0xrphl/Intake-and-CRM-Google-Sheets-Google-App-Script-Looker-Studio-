@@ -44,10 +44,6 @@ This project aims to streamline the intake process for customer relationship man
 4. **Authorize Access**: Authorize necessary permissions for the script to function properly.
 5. **Configure Looker Studio Integration**: [Instructions on integrating with Looker Studio].
 
-
-### Google Calendar URLs
-- Live Demo Calendar: [Insert Calendar URL]
-
 ## Support
 For any questions or issues, please contact [Your Contact Information].
 
